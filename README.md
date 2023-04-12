@@ -12,13 +12,39 @@
   <br>
 </p>
 
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://discord.gg/FZyE88QMAR" alt="Discord" title="The Tech Kings Palace"><img width="32px" src="https://i.imgur.com/F2vRgE1.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.kaggle.com/joomalho"><img width="32px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/MalhoJoao"><img width="55px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ZQpLe10.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.instagram.com/joaobarrosmalho/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OWdUupI.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 
-    
- 
-    
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/joaomalho?style=social">
+---
 
+### 🧰 Languages and Tools
+  
+<p
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />     
+<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+</p>
 
+<br>
+<br>
 
+#
 
+  <a href="https://github.com/joaomalho?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaomalho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
