@@ -17,8 +17,7 @@
  
     
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/joaomalho?style=social">
-    
-    <a href="https://github.com/joaomalho?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
+
 
 
 
