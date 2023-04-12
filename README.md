@@ -14,31 +14,23 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/FZyE88QMAR" alt="Discord" title="The Tech Kings Palace"><img width="32px" src="https://i.imgur.com/F2vRgE1.png"/></a>
+  <a href="https://discord.gg/FZyE88QMAR" alt="Discord" title="The Tech Kings Palace"><img src="https://skillicons.dev/icons?i=discord&perline=10"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.kaggle.com/joomalho"><img width="32px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
+    <a href="https://www.kaggle.com/joomalho"><img width="48px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/MalhoJoao"><img width="55px" alt="Twitter" title="Twitter" src="https://i.imgur.com/ZQpLe10.png"/></a>
+    <a href="https://twitter.com/MalhoJoao"><img alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter&perline=10"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/joaobarrosmalho/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/OWdUupI.png"/></a>
+    <a href="https://www.instagram.com/joaobarrosmalho/"><img alt="Instagram" title="Instagram" src="https://skillicons.dev/icons?i=instagram&perline=10"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
-
-### 🧰 Languages and Tools
-  
-<p
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />     
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
+## <p align="center"> 🧰 Languages and Tools </p>
+    
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,mysql,r,mongodb,docker,github,html,blender,unreal,unity&perline=10" />
 </p>
+ 
 
 <br>
 <br>
