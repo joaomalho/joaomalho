@@ -30,13 +30,8 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,mysql,r,mongodb,docker,github,html,blender,unreal,unity&perline=10" />
 </p>
- 
 
-<br>
-<br>
-
-#
-
+---
   <a href="https://github.com/joaomalho?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaomalho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
