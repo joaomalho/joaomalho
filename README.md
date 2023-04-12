@@ -29,6 +29,7 @@
     
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,mysql,r,mongodb,docker,github,html,blender,unreal,unity&perline=10" />
+    <img width="48px" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" />
 </p>
 
 ---
