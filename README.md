@@ -13,11 +13,15 @@
   <br>
 </p>
 
+
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/FZyE88QMAR" alt="Discord" title="The Tech Kings Palace"><img src="https://skillicons.dev/icons?i=discord&perline=10"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://www.kaggle.com/joomalho"><img width="48px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a href="https://medium.com/@joaomaria21996"><img width="48px" alt="Medium" title="Medium" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/medium_icon_130878.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://twitter.com/MalhoJoao"><img alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter&perline=10"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
