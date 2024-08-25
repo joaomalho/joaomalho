@@ -19,23 +19,27 @@
 <p align="center">
   <a href="https://discord.gg/FZyE88QMAR" alt="Discord" title="The Tech Kings Palace"><img src="https://skillicons.dev/icons?i=discord&perline=10"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.kaggle.com/joomalho"><img width="48px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
+  <a href="https://www.kaggle.com/joomalho"><img width="48px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-      <a href="https://medium.com/@joaomaria21996"><img width="48px" alt="Medium" title="Medium" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/medium_icon_130878.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/MalhoJoao"><img alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter&perline=10"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.instagram.com/joaobarrosmalho/"><img alt="Instagram" title="Instagram" src="https://skillicons.dev/icons?i=instagram&perline=10"/></a>
+  <a href="https://medium.com/@joaomaria21996"><img width="48px" alt="Medium" title="Medium" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/medium_icon_130878.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
-## <p align="center"> 🧰 Languages and Tools </p>
+## <p align="center"> ⚙️ Languages </p>
     
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,vscode,visualstudio,mysql,r,mongodb,docker,github,html,blender,unreal,unity&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,html,bash&perline=10" />
+</p>
+
+---
+## <p align="center"> 🧰 Tools </p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,mysql,postgres,mongodb,gitlab,docker,github,r,blender,unreal,unity&perline=10" />
     <img width="48px" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" />
 </p>
+
 
 ---
   <a href="https://github.com/joaomalho?tab=followers">
