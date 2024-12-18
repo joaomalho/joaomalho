@@ -26,22 +26,51 @@
 </p>
 
 ---
-## <p align="center"> ⚙️ Languages </p>
-    
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,bash&perline=10" />
+
+## <p align="center"> 💡 **Knowledge** 💡</p>
+
+### <p align="left"> 🗄️ **Databases** </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,cassandra&perline=10" />
 </p>
 
----
-## <p align="center"> 🧰 Tools </p>
+### <p align="left"> 🔧 **Version Control and Repositories** </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab&perline=10" />
+</p>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,mysql,postgres,mongodb,gitlab,docker,github,r,blender,unreal,unity&perline=10" />
+### <p align="left"> 🌐 **Infrastructure and Platforms** </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=kafka,kubernetes,docker&perline=10" />
+</p>
+
+### <p align="left"> 💻 **Software Development** </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=nodejs,postman,py&perline=10" />
+</p>
+
+### <p align="left"> 🌍 **Web Technologies** </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
+</p>
+
+### <p align="left"> 🎨 **Design and 3D Modeling** </p>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=blender&perline=10" />
+</p>
+
+### <p align="left"> 📊 **Data Analytics and Visualization** </p>
+<p align="left">
     <img width="48px" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" />
 </p>
 
+---
+---
+
+## 👀 Looking for collaborations or freelance opportunities? [Let's connect!](mailto:joao_malho@outlook.com)
 
 ---
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaomalho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
   <a href="https://github.com/joaomalho?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaomalho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
