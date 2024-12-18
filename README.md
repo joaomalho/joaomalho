@@ -1,6 +1,7 @@
 # <p align="center"> João Barros Malho </p>
 
 ---
+---
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BBFFF&background=FFFFFF00&center=true&vCenter=true&width=435&height=53&lines=%2B5+years+experience+in+programing;Learning+%26+Improving+everyday;+%2B5+years+as+Portfolio+Manager;Stock+Market+Lover" alt="Typing SVG" /></a>
@@ -70,7 +71,6 @@
 ## 👀 Looking for collaborations or freelance opportunities? [Let's connect!](mailto:joao_malho@outlook.com)
 
 ---
-  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/joaomalho?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-  <a href="https://github.com/joaomalho?tab=followers">
+![GitHub followers](https://img.shields.io/github/followers/joaomalho?label=Followers&style=social)
+![HitCount](https://hits.dwyl.com/joaomalho/joaomalho.github.io.svg)
 
