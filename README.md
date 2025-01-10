@@ -1,7 +1,7 @@
 # <p align="center"> João Barros Malho </p>
 
 ---
----
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5BBFFF&background=FFFFFF00&center=true&vCenter=true&width=435&height=53&lines=%2B5+years+experience+in+programing;Learning+%26+Improving+everyday;+%2B5+years+as+Portfolio+Manager;Stock+Market+Lover" alt="Typing SVG" /></a>
