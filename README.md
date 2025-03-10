@@ -70,5 +70,4 @@
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/joaomalho?label=Followers&style=social)
-![HitCount](https://hits.dwyl.com/joaomalho/joaomalho.github.io.svg)
 
