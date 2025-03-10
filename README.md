@@ -50,7 +50,7 @@
 
 ### <p align="left"> 🌍 **Web Technologies** </p>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,htmx&perline=10" />
 </p>
 
 ### <p align="left"> 🎨 **Design and 3D Modeling** </p>
