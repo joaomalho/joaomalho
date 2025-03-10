@@ -45,7 +45,7 @@
 
 ### <p align="left"> 💻 **Software Development** </p>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=nodejs,postman,py&perline=10" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postman,py,js&perline=10" />
 </p>
 
 ### <p align="left"> 🌍 **Web Technologies** </p>
