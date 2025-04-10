@@ -12,9 +12,9 @@
   <br>
   <br>
 </p>
-<!--
-<img src="[https://github-readme-streak-stats.herokuapp.com?user=joaomalho&theme=dracula&hide_border=true&background=FFFFFF00](https://github-readme-streak-stats.herokuapp.com/?user=joaomalho&theme=dracula&hide_border=true&background=FFFFFF00)">
--->
+<!-- 
+<img src="https://streak-stats.demolab.com?user=joaomalho&theme=dracula&hide_border=true&background=FFFFFF00" />
+ -->
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/TnjNUGxr" alt="Discord" title="The Tech Kings Palace"><img src="https://skillicons.dev/icons?i=discord&perline=10"/></a>
@@ -66,7 +66,19 @@
 ---
 
 ## 👀 Looking for collaborations or freelance opportunities? [Let's connect!](mailto:joao_malho@outlook.com)
+---
+📬 **Interested in building a data-driven project, automation system, or quantitative strategy?**  
+💼 I'm open to collaborations, freelance work, and full-time opportunities.  
+📧 Reach out to me: [joao_malho@outlook.com](mailto:joao_malho@outlook.com)
 
 ---
 ![GitHub followers](https://img.shields.io/github/followers/joaomalho?label=Followers&style=social)
+
+---
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaomalho&theme=dracula&column=4&margin-w=10&margin-h=10" />
+</p>
+
 
