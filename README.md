@@ -9,13 +9,12 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api?username=joaomalho&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaomalho&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=joaomalho&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
 </p>
-
-
-
+<!--
+<img src="[https://github-readme-streak-stats.herokuapp.com?user=joaomalho&theme=dracula&hide_border=true&background=FFFFFF00](https://github-readme-streak-stats.herokuapp.com/?user=joaomalho&theme=dracula&hide_border=true&background=FFFFFF00)">
+-->
 <!-- Social icons section -->
 <p align="center">
   <a href="https://discord.gg/TnjNUGxr" alt="Discord" title="The Tech Kings Palace"><img src="https://skillicons.dev/icons?i=discord&perline=10"/></a>
