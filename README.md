@@ -80,5 +80,5 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=joaomalho&theme=dracula&column=4&margin-w=10&margin-h=10" />
 </p>
-
+ 
 
