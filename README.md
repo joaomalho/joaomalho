@@ -58,9 +58,7 @@
 </p>
 
 ### <p align="left"> 📊 **Data Analytics and Visualization** </p>
-<p align="left">
-    <img width="48px" src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" />
-</p>
+
 
 ---
 ---
