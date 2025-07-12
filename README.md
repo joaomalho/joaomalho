@@ -17,10 +17,6 @@
  -->
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://discord.gg/TnjNUGxr" alt="Discord" title="The Tech Kings Palace"><img src="https://skillicons.dev/icons?i=discord&perline=10"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.kaggle.com/joomalho"><img width="48px" alt="Kaggle" title="Kaggle" src="https://static-00.iconduck.com/assets.00/kaggle-icon-256x256-kdu055h6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 ---
