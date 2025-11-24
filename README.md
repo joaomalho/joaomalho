@@ -65,10 +65,12 @@
 </p>
 
 ### <p align="left"> 🤿 **DevOps** </p>
+<p align="left">
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="Bash" title="Bash"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CICD" title="CICD"/>
+</p>
 
 ### <p align="left"> 🌍 **Web Technologies** </p>
 <p align="left">
